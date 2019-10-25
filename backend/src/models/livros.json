@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "titulo": "1984",
+        "autor": "george orwell",
+        "anoPrimeiraPublicacao": 1949,
+        "numeroPaginas": 328,
+        "genero": [
+            "ficcao cientifica",
+            "distopia"
+        ],
+        "descricao": "Mil Novecentos e Oitenta e Quatro, muitas vezes publicado como 1984, é um romance distópico da autoria do escritor britânico George Orwell e publicado em 1949"
+    },
+    {
+        "id": 2,
+        "titulo": "admiravel mundo novo",
+        "autor": "aldous huxley",
+        "anoPrimeiraPublicacao": 1932,
+        "numeroPaginas": 312,
+        "genero": [
+            "romance",
+            "distopia"
+        ],
+        "descricao": "Admirável Mundo Novo é um romance escrito em 1931 por Aldous Huxley e publicado em 1932. A história se passa em Londres no ano 2540, o romance antecipa desenvolvimentos em tecnologia reprodutiva, hipnopedia, manipulação psicológica e condicionamento clássico, que se combinam para mudar profundamente a sociedade"
+    },
+    {
+        "id": 3,
+        "titulo": "o mundo assombrado pelos demonios",
+        "autor": "george orwell",
+        "anoPrimeiraPublicacao": 1995,
+        "numeroPaginas": 457,
+        "genero": [
+            "ciencia",
+            "filosofia"
+        ],
+        "descricao": "The Demon-Haunted World, lançado em 1997 é um livro de Carl Sagan publicado originalmente em 1995."
+    },
+    {
+        "id": 4,
+        "titulo": "o universo numa casca de noz",
+        "autor": "stephan hawking",
+        "anoPrimeiraPublicacao": 2001,
+        "numeroPaginas": 224,
+        "genero": [
+            "fisica"
+        ],
+        "descricao": "O Universo numa Casca de Noz é um livro sobre física teórica escrito pelo renomado físico Stephen Hawking"
+    },
+    {
+        "id": 5,
+        "titulo": "o principe",
+        "autor": "nicolau maquiavel",
+        "anoPrimeiraPublicacao": 1532,
+        "numeroPaginas": 249,
+        "genero": [
+            "nao ficcao"
+        ],
+        "descricao": "O Príncipe é um livro escrito por Nicolau Maquiavel em 1513, cuja primeira edição foi publicada postumamente, em 1532"
+    },
+    {
+        "id": 6,
+        "titulo": "mulheres que correm com os lobos",
+        "autor": "clarissa pinkola estes",
+        "anoPrimeiraPublicacao": 1992,
+        "numeroPaginas": 520,
+        "genero": [
+            "psicologia",
+            "autoajuda"
+        ],
+        "descricao": "Através da interpretação de 19 lendas e histórias antigas, entre elas as de Barba-Azul, Patinho Feio, Sapatinhos Vermelhos e La Llorona, a autora procura identificar o arquétipo da Mulher Selvagem ou a essência da alma feminina, sua psique instintiva mais profunda"
+    },
+    {
+        "id": 7,
+        "titulo": "o senhor dos aneis - a sociedade do anel",
+        "autor": "jrr tolkien",
+        "anoPrimeiraPublicacao": 1954,
+        "numeroPaginas": 423,
+        "genero": [
+            "literatura fantastica",
+            "ficcao de aventura"
+        ],
+        "descricao": "The Fellowship of the Ring é o primeiro volume da trilogia O Senhor dos Anéis, escrita pelo professor e filólogo britânico J. R. R. Tolkien. Narra o início da história do Um Anel, tendo como principal aspecto a formação de uma Sociedade que deveria levar o Anel para a Montanha da Perdição a fim de destrui-lo."
+    }
+]
