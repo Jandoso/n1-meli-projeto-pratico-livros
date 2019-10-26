@@ -26,7 +26,7 @@
     {
         "id": 3,
         "titulo": "o mundo assombrado pelos demonios",
-        "autor": "george orwell",
+        "autor": "carl sagan",
         "anoPrimeiraPublicacao": 1995,
         "numeroPaginas": 457,
         "genero": [
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "titulo": "o universo numa casca de noz",
-        "autor": "stephan hawking",
+        "autor": "stephen hawking",
         "anoPrimeiraPublicacao": 2001,
         "numeroPaginas": 224,
         "genero": [

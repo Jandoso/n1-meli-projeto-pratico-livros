@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "descricao": "ficcao cientifica"
+    },
+    {
+        "id": 2,
+        "descricao": "distopia"
+    },
+    {
+        "id": 3,
+         "descricao": "romance"
+    },
+    {
+        "id": 4,
+        "descricao": "ciencia"
+    },
+    {
+        "id": 5,
+        "descricao": "filosofia"
+    },
+    {
+        "id": 6,
+        "descricao": "fisica"
+    },
+    {
+        "id": 7,
+        "descricao": "nao ficcao"
+    },
+    {
+        "id": 8,
+        "descricao": "psicologia"
+    },
+    {
+        "id": 9,
+        "descricao": "auto ajuda"
+    },
+    {
+        "id": 10,
+        "descricao": "literatura fantastica"
+    },
+    {
+        "id": 11,
+        "descricao": "ficcao de aventura"
+    }
+]
